@@ -26,7 +26,8 @@ You can click the Preview link to take a look at your changes.
 
 ### 要来看看我的作品吗，你一定会喜欢哒ヽ（ ＾ω＾ ゞ ）
 - [OfficialWebsite](https://ryokuryuneko.top/)　官网喵~ (=^・ｪ・^=)
-[WebAuthenticator](http://ryuwebauth.ryokuryuneko.top/)　网页版二次验证密钥生成器喵~ (=^・ｪ・^=)
+
+- [WebAuthenticator](http://ryuwebauth.ryokuryuneko.top/)　网页版二次验证密钥生成器喵~ (=^・ｪ・^=)
 
 
 ~其它的做的不是很好，请见谅●﹏●~
@@ -38,11 +39,19 @@ QQ：2411273874
 当然啦，你也可以来看看我的Twitch喵，咱不会拒绝的呢，咱是`Ryokuryuneko`哦[传送门](https://www.twitch.tv/ryokuryuneko)
 
 ### 自己是一只猫猫 躺平了喵
+
 　　       　∧,,　
+          
 　　　　ヾ ｀. ､`フ
+    
 　　　(,｀'´ヽ､､ﾂﾞ
+   
 　 (ヽｖ'　　　`''ﾞつ
+  
 　　,ゝ　 ⌒`ｙ'''´
+  
 　 （ (´＾ヽこつ
+  
 　　 ) )
+   
 　　(ノ
